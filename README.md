@@ -1,3 +1,0 @@
-# awakelab
-proyecto 1
-
